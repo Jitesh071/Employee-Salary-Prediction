@@ -1,11 +1,13 @@
 Project Title: Employee Salary Prediction
 
+
 📝Overview
 This project focuses on building a machine learning model that can predict the salary of
 employees based on various input features. It uses regression algorithms—primarily Linear Regression—to estimate the salary,
 using a dataset that includes employee details like years of experience.
 
 The notebook walks through all essential stages of a data science project:
+
 
 Data Loading
 
@@ -18,6 +20,7 @@ Data Loading
 4.Model Evaluation
 
 5.Prediction
+
 
 📂 Notebook Breakdown and Explanation
 
@@ -39,6 +42,7 @@ The first step is importing necessary Python libraries:
 
 -from sklearn.metrics import r2_score, mean_squared_error
 
+
 These libraries are used for:
 
 1.Data handling (pandas, numpy)
@@ -46,6 +50,7 @@ These libraries are used for:
 2.Data visualization (matplotlib, seaborn)
 
 3.Machine Learning modeling and evaluation (scikit-learn)
+
 
 2. 📁 Data Loading
 
@@ -56,10 +61,11 @@ These libraries are used for:
 4. 🔍 Exploratory Data Analysis (EDA)
 
 - data.info()
-- 
+  
 -data.describe()
 
 -data.isnull().sum()
+
 
 To understand the structure of the dataset:
 
@@ -68,6 +74,7 @@ To understand the structure of the dataset:
 - data types
   
 -View basic statistics
+
 
 4. 🔧 Data Preprocessing
 
@@ -81,6 +88,7 @@ To understand the structure of the dataset:
 
     This splits the data into training (80%) and testing (20%) sets.
 
+
 6. 🤖 Model Training
 
     model = LinearRegression()
@@ -88,6 +96,7 @@ To understand the structure of the dataset:
     model.fit(X_train, y_train)
 
    We fit a Linear Regression model using training data. It tries to find the best-fitting straight line between experience and salary.
+
 
 8. 📈 Prediction and Evaluation
 
@@ -104,6 +113,7 @@ To understand the structure of the dataset:
 R² score shows how much of the variation in salary is explained by experience.
 
 MSE gives the average squared difference between predicted and actual salaries.
+
 
 7. 🖼️ Results Visualization
 
