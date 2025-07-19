@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+26,Female,Bachelor's,Data Analyst,5,63107.51
+50,Female,Master's,Data Analyst,27,150958.96
+25,Female,PhD,Sales Associate,3,91508.63
+31,Male,Bachelor's,Sales Associate,10,73220.45
+38,Male,Master's,Sales Associate,17,96671.9
+31,Male,Master's,Data Analyst,11,114180.86
+38,Female,PhD,Data Analyst,18,129400.69
+41,Female,Master's,Sales Associate,19,142066.83
+45,Male,Bachelor's,Sales Associate,23,116533.3
+26,Male,Master's,Director,2,82660.72
+55,Male,Bachelor's,Sales Associate,35,193162.62
+27,Male,Master's,Director,3,89090.16
+23,Female,PhD,Senior Manager,0,84138.01
+34,Male,Bachelor's,Data Analyst,10,75762.68
+32,Male,Master's,Sales Associate,11,110671.9
+44,Male,Master's,Data Analyst,20,122022.89
+37,Male,Master's,Data Analyst,15,112601.62
+52,Male,Bachelor's,Data Analyst,29,167469.96
+32,Male,Bachelor's,Senior Manager,11,79086.64
+37,Male,Bachelor's,Software Engineer,13,85331.59
+29,Female,PhD,Sales Associate,6,92213.71
+25,Female,PhD,Software Engineer,2,80300.92
+25,Female,Bachelor's,Software Engineer,4,62809.71
+46,Female,Master's,Software Engineer,22,117542.14
+24,Male,PhD,Data Analyst,1,77332.15
+53,Female,Bachelor's,Director,30,136406.57
+24,Female,Master's,Data Analyst,4,80711.22
+48,Male,PhD,Data Analyst,25,141694.64
+50,Male,Master's,Software Engineer,30,147080.05
+53,Female,Master's,Data Analyst,29,156778.86
+40,Female,Master's,Software Engineer,16,99801.34
+42,Male,Master's,Director,18,141614.7
+26,Female,PhD,Sales Associate,4,91690.54
+39,Male,PhD,Software Engineer,15,121021.95
+49,Male,PhD,Director,26,168000.05
+43,Male,Bachelor's,Sales Associate,22,101358.71
+42,Male,PhD,Senior Manager,22,162815.51
+27,Female,Master's,Software Engineer,5,81868.55
+22,Male,PhD,Software Engineer,0,81557.34
+26,Male,Master's,Senior Manager,2,72003.74
+33,Female,Bachelor's,Senior Manager,12,89101.47
+47,Male,Master's,Software Engineer,26,155419.88
+55,Female,Master's,Senior Manager,33,157992.43
+35,Female,Master's,Data Analyst,15,109322.29
+47,Female,Bachelor's,Sales Associate,23,136934.87
+48,Male,PhD,Sales Associate,26,156294.28
+30,Female,PhD,Sales Associate,7,95246.51
+47,Female,Bachelor's,Data Analyst,24,147469.27
+43,Male,Master's,Senior Manager,21,134785.93
+51,Female,PhD,Director,27,178430.08
+38,Female,Bachelor's,Senior Manager,16,117362.49
+47,Female,PhD,Software Engineer,23,153434.38
+57,Female,Bachelor's,Sales Associate,36,135049.17
+22,Female,Master's,Senior Manager,0,56417.29
+29,Male,PhD,Director,5,88178.42
+56,Female,Bachelor's,Software Engineer,34,187184.68
+36,Female,PhD,Data Analyst,14,128828.19
+43,Male,PhD,Data Analyst,19,125923.72
+35,Male,PhD,Director,11,101494.41
+47,Male,PhD,Software Engineer,27,140627.07
+49,Female,Bachelor's,Sales Associate,27,110577.61
+44,Male,Master's,Senior Manager,21,128904.02
+35,Female,Bachelor's,Software Engineer,13,95441.02
+45,Female,Bachelor's,Data Analyst,23,140464.02
+23,Male,Bachelor's,Director,0,53063.15
+47,Male,Master's,Director,25,161197.19
+35,Female,PhD,Senior Manager,13,136735.29
+28,Male,PhD,Director,5,100172.43
+24,Female,PhD,Director,0,86343.11
+44,Male,Master's,Software Engineer,22,147285.13
+39,Male,PhD,Sales Associate,18,149092.8
+59,Male,Master's,Senior Manager,39,209724.95
+56,Female,PhD,Software Engineer,33,194817.46
+36,Male,PhD,Sales Associate,14,110853.66
+46,Female,Bachelor's,Software Engineer,25,141296.31
+58,Female,Master's,Software Engineer,36,152580.27
+49,Female,Bachelor's,Director,27,131962.14
+31,Female,Bachelor's,Sales Associate,7,76540.39
+38,Male,Bachelor's,Senior Manager,14,95173.03
+43,Female,Master's,Senior Manager,19,108888.45
+47,Female,Master's,Sales Associate,26,119471.11
+46,Male,PhD,Director,24,130366.41
+38,Female,Bachelor's,Data Analyst,18,112894.06
+34,Male,PhD,Software Engineer,11,123744.67
+41,Female,Bachelor's,Director,17,86390.77
+46,Male,Master's,Sales Associate,22,157813.31
+25,Female,Master's,Software Engineer,3,70084.1
+31,Male,Master's,Senior Manager,9,100781.7
+24,Female,Bachelor's,Data Analyst,3,68719.12
+39,Female,Master's,Senior Manager,18,110240.12
+57,Male,Bachelor's,Sales Associate,33,115022.37
+43,Male,PhD,Software Engineer,21,122857.64
+55,Male,Bachelor's,Sales Associate,35,180384.72
+29,Male,PhD,Software Engineer,6,100226.06
+40,Female,Bachelor's,Director,18,119416.44
+58,Female,PhD,Data Analyst,36,199846.21
+27,Male,Master's,Director,6,83210.37
+47,Female,PhD,Director,24,133552.68
+55,Male,Master's,Sales Associate,31,148322.61
+27,Male,Master's,Data Analyst,5,85926.94
+58,Female,PhD,Software Engineer,34,197745.48
+54,Female,Bachelor's,Software Engineer,32,133750.64
+43,Female,Bachelor's,Senior Manager,19,98938.98
+42,Female,Bachelor's,Software Engineer,19,96181.69
+27,Female,Bachelor's,Sales Associate,6,66972.06
+27,Female,Bachelor's,Director,4,58415.56
+25,Female,Master's,Director,5,86850.12
+51,Male,Bachelor's,Director,30,156992.45
+32,Male,Master's,Data Analyst,9,108310.95
+51,Male,Master's,Software Engineer,31,154589.83
+52,Male,Master's,Sales Associate,30,148943.26
+45,Male,PhD,Data Analyst,23,132073.62
+30,Female,PhD,Senior Manager,6,97117.75
+24,Male,Master's,Sales Associate,3,82212.47
+52,Male,PhD,Sales Associate,30,159990.86
+58,Male,Bachelor's,Sales Associate,37,147343.89
+57,Male,Bachelor's,Director,35,137834.99
+45,Male,Master's,Sales Associate,21,128254.73
+52,Male,Bachelor's,Software Engineer,29,131548.27
+27,Male,Master's,Sales Associate,3,80791.65
+23,Female,Master's,Director,3,84760.97
+41,Female,Bachelor's,Sales Associate,19,100891.68
+49,Male,PhD,Senior Manager,29,171303.66
+32,Female,Bachelor's,Senior Manager,12,85569.51
+25,Female,Bachelor's,Director,4,60998.8
+36,Female,Master's,Software Engineer,14,106316.05
+27,Female,Master's,Software Engineer,7,79829.88
+51,Male,Master's,Data Analyst,28,149067.27
+59,Female,Master's,Director,39,159225.2
+23,Female,PhD,Sales Associate,0,79635.76
+36,Female,PhD,Director,15,121510.83
+32,Male,PhD,Data Analyst,12,132589.84
+29,Male,Master's,Director,5,81711.09
+47,Male,Master's,Director,26,135408.61
+26,Male,Master's,Data Analyst,3,82838.32
+27,Male,PhD,Software Engineer,6,94265.82
+47,Male,Master's,Sales Associate,27,128192.68
+25,Male,Bachelor's,Data Analyst,3,60341.89
+40,Female,Bachelor's,Senior Manager,18,99165.67
+41,Female,Master's,Software Engineer,18,109488.16
+54,Female,Bachelor's,Senior Manager,31,120361.06
+41,Male,Bachelor's,Software Engineer,19,105022.15
+33,Male,PhD,Sales Associate,10,108844.16
+22,Male,Master's,Sales Associate,1,66400.51
+47,Male,Master's,Director,23,150448.92
+35,Male,PhD,Senior Manager,11,120455.97
+59,Female,Bachelor's,Software Engineer,38,169868.35
+58,Female,Bachelor's,Sales Associate,34,159720.4
+32,Male,Master's,Data Analyst,12,88751.4
+57,Male,Bachelor's,Sales Associate,36,152136.21
+34,Male,PhD,Data Analyst,11,110959.71
+24,Male,PhD,Software Engineer,3,88279.42
+54,Female,Master's,Sales Associate,32,169907.57
+27,Male,PhD,Sales Associate,4,90781.59
+31,Male,PhD,Software Engineer,9,108367.86
+26,Male,Master's,Sales Associate,3,78634.19
+44,Male,PhD,Data Analyst,20,139983.45
+31,Female,PhD,Sales Associate,10,103784.3
+23,Male,PhD,Senior Manager,3,83641.3
+34,Male,Bachelor's,Director,11,89905.52
+23,Female,Master's,Data Analyst,0,74377.86
+41,Female,Master's,Senior Manager,19,134104.34
+22,Female,Master's,Software Engineer,0,60158.66
+58,Male,Bachelor's,Data Analyst,36,181405.13
+30,Male,Bachelor's,Director,8,64638.84
+38,Female,Master's,Director,14,99765.29
+30,Female,Bachelor's,Software Engineer,10,69622.18
+32,Female,Master's,Software Engineer,10,95356.4
+36,Female,Bachelor's,Data Analyst,14,81752.41
+45,Female,PhD,Sales Associate,22,154372.75
+59,Female,PhD,Software Engineer,35,203763.55
+56,Male,Master's,Sales Associate,35,136572.76
+51,Male,Bachelor's,Senior Manager,31,135144.91
+52,Male,Bachelor's,Director,32,161230.49
+26,Female,PhD,Sales Associate,2,84190.04
+35,Female,PhD,Director,12,104526.42
+32,Female,Bachelor's,Sales Associate,9,63075.63
+30,Female,Bachelor's,Senior Manager,6,71236.71
+55,Female,Bachelor's,Software Engineer,32,180982.52
+33,Female,Bachelor's,Senior Manager,13,87303.32
+56,Male,Bachelor's,Software Engineer,36,136119.8
+56,Male,Bachelor's,Software Engineer,35,181927.51
+22,Female,Master's,Director,0,62826.13
+43,Male,Bachelor's,Senior Manager,21,129130.33
+50,Female,PhD,Sales Associate,28,187881.31
+29,Male,Master's,Senior Manager,8,95571.34
+32,Female,Bachelor's,Director,11,86223.64
+58,Female,PhD,Software Engineer,35,206665.06
+35,Male,Master's,Director,14,103874.45
+51,Male,PhD,Data Analyst,30,185749.25
+56,Female,Bachelor's,Data Analyst,34,160619.02
+42,Female,Bachelor's,Sales Associate,19,99887.28
+58,Male,Bachelor's,Director,37,168813.23
+26,Male,Bachelor's,Sales Associate,5,67880.63
+40,Female,Master's,Sales Associate,17,119593.16
+35,Male,Master's,Data Analyst,11,93413.27
+47,Female,PhD,Sales Associate,24,169073.09
+25,Female,Bachelor's,Data Analyst,3,67742.96
+46,Female,PhD,Software Engineer,22,153905.45
+46,Female,Master's,Director,26,114672.33
+39,Male,Bachelor's,Sales Associate,16,100014.14
+29,Male,Bachelor's,Data Analyst,7,71472.47
+35,Male,Master's,Senior Manager,11,114826.18
+53,Male,Master's,Sales Associate,30,132808.95
+59,Male,Master's,Software Engineer,38,175053.42
+54,Male,Master's,Software Engineer,31,186740.36
+44,Male,Master's,Senior Manager,24,136484.05
+36,Female,Bachelor's,Data Analyst,13,108277.98
+54,Male,Master's,Sales Associate,30,174628.18
+46,Male,Bachelor's,Data Analyst,22,104390.52
+38,Female,Bachelor's,Software Engineer,15,105780.05
+54,Male,Master's,Data Analyst,30,159193.32
+23,Male,Master's,Software Engineer,2,79437.6
+35,Female,Bachelor's,Data Analyst,12,79712.6
+27,Male,Master's,Senior Manager,6,74571.96
+27,Male,Master's,Director,6,83285.3
+24,Male,Master's,Senior Manager,2,69653.76
+28,Female,PhD,Senior Manager,5,101881.08
+29,Male,Bachelor's,Director,5,75430.82
+36,Male,PhD,Director,15,131714.01
+50,Female,Master's,Sales Associate,28,141063.38
+54,Male,PhD,Sales Associate,31,160320.71
+51,Female,Master's,Senior Manager,28,159242.32
+48,Female,PhD,Senior Manager,28,142554.45
+57,Male,Master's,Software Engineer,37,148319.8
+50,Female,PhD,Software Engineer,29,148565.89
+59,Female,PhD,Sales Associate,39,169852.95
+54,Male,PhD,Sales Associate,33,200154.75
+58,Female,Bachelor's,Software Engineer,34,140418.01
+48,Female,PhD,Software Engineer,27,160883.63
+54,Male,Bachelor's,Data Analyst,34,187787.04
+25,Male,Master's,Data Analyst,1,67026.29
+43,Male,PhD,Software Engineer,23,138105.55
+23,Female,Master's,Data Analyst,2,76605.7
+31,Male,Master's,Director,9,100625.96
+26,Female,PhD,Sales Associate,3,90183.41
+31,Female,Bachelor's,Sales Associate,11,75363.34
+54,Female,PhD,Software Engineer,33,164882.51
+59,Female,Master's,Senior Manager,35,176148.93
+34,Female,Master's,Software Engineer,14,125540.15
+52,Female,PhD,Data Analyst,32,158277.27
+57,Female,Bachelor's,Senior Manager,34,175936.07
+45,Male,Bachelor's,Data Analyst,24,141681.73
+36,Male,Master's,Director,14,121894.65
+50,Female,Master's,Data Analyst,26,165672.11
+29,Female,Bachelor's,Director,8,79780.15
+26,Male,PhD,Director,2,82893.82
+50,Female,Master's,Data Analyst,30,181409.45
+25,Male,Bachelor's,Data Analyst,2,50719.75
+33,Male,Master's,Director,10,105089.22
+23,Male,PhD,Senior Manager,1,86347.16
+48,Female,Bachelor's,Director,25,125205.39
+52,Female,Master's,Sales Associate,32,132243.51
+57,Male,PhD,Director,35,201888.19
+57,Male,Master's,Senior Manager,36,167383.78
+47,Male,PhD,Sales Associate,24,154819.46
+48,Male,PhD,Software Engineer,26,150839.31
+26,Male,Bachelor's,Software Engineer,6,67665.54
+41,Female,PhD,Senior Manager,17,146831.27
+32,Male,Master's,Director,8,97690.77
+31,Female,PhD,Data Analyst,11,115694.2
+59,Male,PhD,Senior Manager,39,188297.16
+27,Female,Bachelor's,Sales Associate,3,55741.87
+29,Female,PhD,Sales Associate,7,97499.42
+44,Female,PhD,Software Engineer,20,120660.93
+47,Female,Master's,Sales Associate,27,142790.29
+33,Female,Bachelor's,Senior Manager,10,87504.45
+47,Female,Bachelor's,Sales Associate,26,136779.84
+34,Male,Bachelor's,Senior Manager,11,95888.49
+39,Female,PhD,Data Analyst,16,117453.28
+46,Male,Bachelor's,Software Engineer,26,149823.17
+54,Female,PhD,Sales Associate,30,148050.86
+33,Female,PhD,Senior Manager,11,107573.71
+57,Male,Master's,Director,34,168080.22
+25,Female,Master's,Software Engineer,1,71537.13
+26,Male,Master's,Data Analyst,4,81485.12
+58,Male,Master's,Senior Manager,35,191989.0
+29,Male,Master's,Data Analyst,7,83045.98
+49,Male,PhD,Data Analyst,25,167928.24
+52,Female,PhD,Sales Associate,31,176348.99
+30,Female,Bachelor's,Sales Associate,6,70975.58
+50,Male,PhD,Senior Manager,30,145847.9
+35,Female,PhD,Director,13,129469.01
+43,Female,Master's,Senior Manager,22,144799.59
+32,Male,PhD,Director,10,101047.39
+44,Female,Master's,Data Analyst,22,135587.56
+22,Male,Bachelor's,Software Engineer,0,46557.06
+58,Male,Bachelor's,Senior Manager,38,157733.54
+42,Female,PhD,Senior Manager,20,138504.19
+47,Female,Bachelor's,Director,23,127010.82
+57,Female,PhD,Data Analyst,33,179221.11
+44,Male,Bachelor's,Data Analyst,21,111845.91
+22,Male,Master's,Director,2,70915.75
+36,Female,Master's,Data Analyst,16,85220.77
+42,Female,Master's,Sales Associate,18,129658.6
+30,Female,Master's,Software Engineer,9,96809.49
+30,Female,PhD,Senior Manager,7,94915.87
+31,Male,Bachelor's,Software Engineer,8,68541.15
+47,Female,PhD,Senior Manager,23,151752.38
+56,Male,Master's,Sales Associate,32,158530.67
+46,Male,PhD,Data Analyst,25,146377.25
+47,Female,Bachelor's,Director,26,135964.27
+32,Female,PhD,Sales Associate,12,115236.73
+59,Female,Bachelor's,Software Engineer,36,183296.81
+23,Male,PhD,Director,0,80691.49
+28,Female,Bachelor's,Data Analyst,4,56050.9
+39,Female,Bachelor's,Sales Associate,19,122919.86
+48,Male,Master's,Director,25,161047.91
+55,Female,Bachelor's,Sales Associate,35,173651.12
+48,Male,Master's,Sales Associate,28,167463.43
+38,Female,Master's,Data Analyst,14,93281.88
+45,Male,Master's,Senior Manager,25,116313.2
+46,Female,PhD,Director,25,126803.26
+28,Female,PhD,Data Analyst,7,92398.16
+27,Male,PhD,Sales Associate,5,95667.48
+45,Male,PhD,Data Analyst,21,131512.04
+54,Female,Bachelor's,Senior Manager,32,150461.19
+50,Male,Bachelor's,Director,29,119666.8
+43,Male,PhD,Senior Manager,21,155775.04
+47,Male,Bachelor's,Software Engineer,23,103006.38
+49,Male,Bachelor's,Director,25,134817.21
+42,Female,Master's,Senior Manager,22,130570.95
+28,Female,Master's,Sales Associate,5,75847.42
+38,Male,Master's,Director,18,131276.35
+41,Male,Master's,Director,17,115081.97
+41,Male,Bachelor's,Data Analyst,20,106184.24
+43,Male,PhD,Sales Associate,22,146728.31
+49,Female,Bachelor's,Software Engineer,29,141134.38
+28,Female,Bachelor's,Senior Manager,4,64994.55
+22,Male,Bachelor's,Data Analyst,1,62583.05
+53,Male,Master's,Senior Manager,29,147655.5
+34,Male,Master's,Software Engineer,13,110266.15
+51,Female,Master's,Software Engineer,27,177733.31
+44,Male,PhD,Director,22,145946.49
+40,Female,Bachelor's,Software Engineer,16,90403.07
+53,Male,PhD,Senior Manager,29,186706.24
+51,Female,Master's,Sales Associate,31,176768.34
+50,Male,PhD,Sales Associate,28,166393.71
+50,Female,Bachelor's,Director,27,123538.14
+51,Male,Bachelor's,Senior Manager,31,124820.91
+37,Male,Master's,Senior Manager,14,94322.07
+40,Male,Master's,Software Engineer,19,126808.96
+39,Female,PhD,Senior Manager,16,103410.7
+22,Male,Master's,Data Analyst,0,65705.04
+35,Female,Master's,Software Engineer,12,112026.21
+23,Female,Bachelor's,Data Analyst,3,58162.47
+49,Male,Master's,Director,29,155481.3
+51,Male,Master's,Sales Associate,28,142501.54
+59,Male,Bachelor's,Director,39,178266.45
+25,Female,Bachelor's,Sales Associate,5,61728.38
+22,Male,PhD,Director,0,75249.32
+29,Female,Master's,Senior Manager,7,84327.57
+50,Female,Bachelor's,Data Analyst,28,121447.3
+24,Male,PhD,Sales Associate,3,80017.5
+53,Male,PhD,Software Engineer,33,151868.77
+31,Male,Master's,Data Analyst,8,78919.59
+31,Male,Master's,Software Engineer,11,103378.06
+40,Male,PhD,Data Analyst,16,139607.79
+55,Male,Bachelor's,Data Analyst,35,142666.11
+54,Female,PhD,Director,34,164419.37
+44,Female,Master's,Sales Associate,22,122358.66
+49,Female,Bachelor's,Sales Associate,26,140488.96
+53,Male,Bachelor's,Data Analyst,33,180092.42
+28,Female,PhD,Senior Manager,6,102153.82
+50,Female,Master's,Senior Manager,29,160250.92
+29,Female,PhD,Software Engineer,7,107246.03
+22,Female,PhD,Software Engineer,0,77688.24
+24,Female,PhD,Director,2,86073.24
+45,Male,Bachelor's,Data Analyst,25,139418.17
+44,Male,Bachelor's,Software Engineer,24,106823.17
+29,Female,Master's,Software Engineer,8,86971.1
+58,Female,Master's,Data Analyst,34,172224.18
+24,Female,PhD,Director,0,84379.38
+54,Male,PhD,Software Engineer,30,138086.86
+49,Male,PhD,Director,28,169711.87
+29,Female,Master's,Sales Associate,5,81755.61
+55,Male,Bachelor's,Director,31,110914.91
+56,Male,Bachelor's,Senior Manager,34,163336.41
+53,Female,PhD,Senior Manager,33,200608.29
+45,Male,PhD,Director,25,167673.01
+35,Male,PhD,Senior Manager,13,101279.18
+53,Female,PhD,Sales Associate,31,184284.93
+37,Male,Master's,Data Analyst,15,96572.76
+25,Male,Bachelor's,Senior Manager,5,62018.23
+58,Female,PhD,Senior Manager,34,199412.78
+42,Male,Master's,Director,20,130250.0
+35,Male,PhD,Sales Associate,14,129177.5
+52,Female,PhD,Data Analyst,30,184031.24
+39,Female,Bachelor's,Director,16,95231.81
+28,Female,PhD,Director,6,102695.75
+31,Male,Bachelor's,Sales Associate,11,74670.33
+28,Female,Bachelor's,Data Analyst,6,64023.44
+54,Male,Bachelor's,Sales Associate,31,151474.08
+44,Female,Master's,Data Analyst,23,150195.68
+42,Male,Master's,Sales Associate,18,119232.41
+40,Female,Bachelor's,Director,18,117109.2
+40,Female,PhD,Director,17,146533.4
+57,Female,Bachelor's,Software Engineer,34,172782.49
+50,Female,PhD,Senior Manager,29,191041.87
+39,Male,Bachelor's,Sales Associate,19,99153.01
+23,Female,PhD,Software Engineer,1,89251.36
+22,Female,Master's,Senior Manager,0,64740.67
+26,Male,PhD,Sales Associate,5,98275.15
+41,Female,Bachelor's,Data Analyst,17,82425.73
+32,Male,Master's,Senior Manager,9,77947.56
+23,Female,PhD,Director,2,88747.32
+24,Female,PhD,Software Engineer,4,97149.36
+44,Female,PhD,Senior Manager,24,154159.72
+33,Male,PhD,Senior Manager,10,111709.77
+41,Female,PhD,Director,18,132509.01
+26,Female,Master's,Sales Associate,4,70494.76
+58,Female,Master's,Data Analyst,37,194583.27
+59,Male,Master's,Director,36,199254.73
+51,Male,Master's,Data Analyst,29,167204.45
+30,Female,Bachelor's,Sales Associate,8,74512.73
+55,Male,Master's,Senior Manager,32,165220.68
+56,Female,PhD,Data Analyst,36,209731.61
+43,Female,PhD,Software Engineer,22,155494.36
+45,Female,Master's,Software Engineer,24,149607.71
+38,Female,PhD,Director,18,144396.55
+31,Female,Master's,Sales Associate,8,75994.99
+51,Female,PhD,Director,30,176738.86
+44,Female,Bachelor's,Director,21,115249.79
+53,Male,Bachelor's,Director,30,173705.35
+38,Male,Master's,Software Engineer,16,96856.03
+38,Male,Master's,Software Engineer,18,100736.46
+35,Male,Master's,Director,12,93899.68
+30,Male,PhD,Software Engineer,6,96901.46
+23,Male,Master's,Sales Associate,3,68608.69
+46,Male,Bachelor's,Director,25,113423.62
+30,Female,PhD,Software Engineer,8,107131.02
+43,Female,Master's,Data Analyst,22,127184.69
+25,Female,PhD,Director,4,92367.44
+47,Female,PhD,Director,27,173624.92
+50,Male,Master's,Sales Associate,29,157319.47
+55,Male,PhD,Senior Manager,32,151295.74
+44,Female,Bachelor's,Senior Manager,23,116152.08
+58,Female,Bachelor's,Sales Associate,36,152507.03
+32,Male,PhD,Sales Associate,10,107734.91
+27,Female,Master's,Sales Associate,3,79684.59
+39,Female,PhD,Senior Manager,17,145047.52
+42,Female,Bachelor's,Sales Associate,21,129757.93
+57,Female,PhD,Software Engineer,35,198733.97
+59,Male,PhD,Director,39,187038.48
+55,Female,Bachelor's,Director,33,135920.17
+38,Female,PhD,Data Analyst,15,129615.36
+58,Male,PhD,Data Analyst,38,210961.69
+46,Male,Master's,Director,22,140757.16
+59,Female,Master's,Software Engineer,36,151221.36
+33,Male,Bachelor's,Senior Manager,12,89177.28
+44,Female,Bachelor's,Senior Manager,23,118994.0
+43,Female,Bachelor's,Software Engineer,22,101606.17
+42,Male,Master's,Senior Manager,19,118013.79
+48,Female,Bachelor's,Sales Associate,25,117888.28
+52,Female,Bachelor's,Director,29,169770.7
+27,Female,Bachelor's,Director,7,75082.41
+48,Female,Master's,Software Engineer,28,155249.69
+55,Male,PhD,Senior Manager,34,153021.72
+33,Male,Bachelor's,Data Analyst,11,90825.29
+28,Female,PhD,Data Analyst,7,100209.77
+31,Male,Bachelor's,Senior Manager,7,64736.18
+38,Female,PhD,Data Analyst,18,138152.7
+47,Female,Master's,Software Engineer,24,140644.62
+42,Female,Master's,Software Engineer,22,121200.88
+49,Female,Bachelor's,Senior Manager,26,150597.6
+23,Female,PhD,Data Analyst,0,84981.75
+22,Male,Master's,Software Engineer,0,59239.69
+57,Female,Bachelor's,Software Engineer,37,169333.63
+47,Male,Bachelor's,Sales Associate,24,107965.8
+50,Male,Master's,Sales Associate,26,143508.33
+42,Female,Master's,Software Engineer,21,140680.14
+32,Female,Bachelor's,Senior Manager,11,75696.23
+32,Female,PhD,Director,9,104651.18
+57,Female,PhD,Director,37,191345.89
+56,Female,PhD,Software Engineer,32,154000.4
+55,Male,Bachelor's,Software Engineer,35,138721.39
+45,Female,Master's,Software Engineer,24,139670.59
+43,Female,Bachelor's,Senior Manager,19,119614.6
+26,Male,Master's,Sales Associate,6,85081.03
+54,Male,PhD,Software Engineer,32,161709.55
+57,Female,PhD,Software Engineer,34,161777.33
+41,Male,Master's,Data Analyst,18,118190.06
+40,Female,Master's,Senior Manager,18,117503.92
+56,Male,Bachelor's,Software Engineer,35,147262.32
+38,Male,PhD,Data Analyst,14,131035.31
+55,Female,Bachelor's,Director,32,161175.32
+30,Male,Bachelor's,Software Engineer,8,76445.58
+47,Male,Bachelor's,Software Engineer,25,126071.02
+23,Male,PhD,Data Analyst,2,87389.04
+30,Male,Bachelor's,Senior Manager,9,72297.98
+30,Male,Bachelor's,Software Engineer,10,76955.27
+38,Male,Bachelor's,Director,15,97603.79
+22,Female,Bachelor's,Software Engineer,2,59025.63
+46,Female,Bachelor's,Director,24,141032.15
+46,Male,Bachelor's,Sales Associate,22,116316.82
+56,Female,PhD,Sales Associate,32,187615.35
+24,Female,Bachelor's,Director,3,63223.42
+58,Female,Master's,Senior Manager,34,186247.84
+51,Male,Bachelor's,Software Engineer,27,127699.73
+59,Female,Bachelor's,Software Engineer,35,151664.22
+55,Male,PhD,Sales Associate,33,159179.87
+33,Female,PhD,Director,9,108930.29
+40,Male,Master's,Software Engineer,16,115201.67
+58,Male,Master's,Software Engineer,34,160504.13
+38,Female,PhD,Senior Manager,18,124984.84
+31,Female,PhD,Data Analyst,9,112075.48
+33,Male,Bachelor's,Sales Associate,12,96365.78
+37,Female,PhD,Sales Associate,17,120431.09
+45,Female,Master's,Data Analyst,22,148296.61
+40,Female,Bachelor's,Software Engineer,18,109122.96
+29,Male,Master's,Senior Manager,7,77905.2
+52,Male,Bachelor's,Senior Manager,29,105750.43
+42,Female,PhD,Sales Associate,19,149368.5
+38,Female,Master's,Senior Manager,15,126582.44
+44,Female,Bachelor's,Data Analyst,23,136535.46
+58,Male,Bachelor's,Software Engineer,34,151456.5
+37,Male,PhD,Data Analyst,15,107330.2
+27,Female,PhD,Director,3,84740.93
+29,Female,PhD,Sales Associate,5,98324.03
+46,Female,Master's,Senior Manager,23,120441.93
+39,Female,Bachelor's,Director,18,96469.62
+46,Female,PhD,Senior Manager,26,144360.79
+33,Female,Master's,Software Engineer,12,100758.02
+36,Male,Master's,Software Engineer,12,117062.05
+47,Female,Master's,Software Engineer,26,141762.91
+47,Male,PhD,Senior Manager,24,134374.58
+53,Female,PhD,Director,33,203887.87
+31,Female,Bachelor's,Software Engineer,8,69451.76
+37,Male,Bachelor's,Director,17,81463.26
+28,Male,PhD,Senior Manager,4,94609.33
+38,Male,Master's,Director,18,135043.28
+44,Male,Master's,Senior Manager,24,113476.49
+47,Female,Master's,Senior Manager,27,168900.07
+42,Male,Bachelor's,Sales Associate,21,122260.7
+43,Female,Master's,Senior Manager,22,107748.55
+28,Male,Bachelor's,Senior Manager,4,63347.2
+35,Female,Bachelor's,Data Analyst,15,85716.02
+36,Female,Master's,Software Engineer,14,103694.77
+28,Female,Master's,Sales Associate,4,74808.01
+30,Female,PhD,Sales Associate,10,115386.01
+29,Female,PhD,Sales Associate,9,106130.15
+44,Female,Master's,Data Analyst,23,153765.68
+50,Male,Bachelor's,Senior Manager,26,133078.03
+39,Female,Bachelor's,Software Engineer,19,114462.03
+52,Male,Bachelor's,Director,32,158110.83
+51,Male,Bachelor's,Senior Manager,27,142541.92
+56,Female,Bachelor's,Data Analyst,34,137605.89
+39,Male,PhD,Senior Manager,15,131541.48
+38,Female,Master's,Senior Manager,14,116511.24
+35,Male,PhD,Data Analyst,13,123258.47
+52,Female,Bachelor's,Sales Associate,28,138571.01
+45,Male,Bachelor's,Sales Associate,25,146151.98
+56,Female,Bachelor's,Software Engineer,32,130070.38
+55,Female,Bachelor's,Software Engineer,33,136489.06
+24,Female,Master's,Sales Associate,1,69043.28
+58,Female,Bachelor's,Director,34,179702.2
+47,Male,Master's,Senior Manager,26,142396.7
+44,Female,Bachelor's,Director,24,122311.28
+36,Male,Master's,Senior Manager,16,119279.36
+25,Male,PhD,Sales Associate,4,84522.58
+50,Male,Bachelor's,Software Engineer,29,164355.48
+43,Female,Master's,Software Engineer,19,131072.4
+46,Male,PhD,Director,25,142080.76
+34,Male,Bachelor's,Software Engineer,11,75297.03
+39,Male,Bachelor's,Sales Associate,17,98262.8
+54,Female,Bachelor's,Director,33,146359.36
+37,Female,Master's,Senior Manager,16,110923.74
+23,Male,Master's,Software Engineer,0,66884.54
+56,Female,PhD,Data Analyst,36,169729.09
+55,Female,Master's,Software Engineer,35,158038.9
+51,Male,Master's,Senior Manager,27,146208.27
+34,Male,Bachelor's,Director,11,87788.85
+34,Female,Bachelor's,Senior Manager,12,79354.87
+39,Male,Bachelor's,Data Analyst,17,92763.61
+53,Female,Bachelor's,Sales Associate,30,110522.04
+53,Female,Bachelor's,Software Engineer,31,165477.52
+56,Female,Bachelor's,Director,36,186065.67
+50,Female,Bachelor's,Sales Associate,28,118742.63
+50,Female,PhD,Senior Manager,28,169227.15
+37,Female,PhD,Director,14,109117.99
+31,Male,PhD,Sales Associate,8,97313.61
+51,Male,PhD,Director,29,199218.77
+46,Female,Bachelor's,Data Analyst,25,140910.7
+41,Female,PhD,Data Analyst,18,145183.71
+26,Female,Bachelor's,Software Engineer,2,60694.28
+22,Male,PhD,Software Engineer,0,82960.2
+51,Female,Master's,Data Analyst,31,128329.24
+24,Male,PhD,Director,2,92764.54
+35,Female,PhD,Data Analyst,14,115542.13
+51,Female,Bachelor's,Software Engineer,31,162426.95
+25,Male,PhD,Data Analyst,3,91922.99
+39,Male,Master's,Data Analyst,16,97405.16
+58,Female,Bachelor's,Director,34,146222.66
+46,Female,Bachelor's,Sales Associate,25,141989.51
+22,Female,PhD,Software Engineer,0,84795.66
+36,Male,Bachelor's,Director,13,79592.71
+30,Male,Bachelor's,Data Analyst,8,69564.95
+36,Male,Bachelor's,Data Analyst,13,76114.06
+45,Male,Bachelor's,Sales Associate,22,97821.33
+25,Male,Bachelor's,Software Engineer,1,55566.86
+33,Male,Bachelor's,Software Engineer,12,69383.73
+58,Female,Master's,Senior Manager,35,170253.81
+58,Female,PhD,Software Engineer,34,169364.27
+27,Male,Master's,Sales Associate,6,80648.44
+45,Female,Bachelor's,Senior Manager,23,142451.15
+32,Female,Bachelor's,Senior Manager,10,78542.24
+34,Male,PhD,Data Analyst,14,136023.98
+55,Female,Master's,Data Analyst,31,148826.57
+46,Male,PhD,Software Engineer,25,154064.61
+28,Male,Master's,Senior Manager,5,78994.63
+25,Female,Bachelor's,Data Analyst,3,53410.37
+29,Male,PhD,Sales Associate,8,100738.44
+41,Male,PhD,Data Analyst,17,142844.68
+50,Male,Bachelor's,Data Analyst,30,142518.88
+31,Male,PhD,Senior Manager,9,106514.74
+55,Male,Master's,Senior Manager,34,181777.21
+47,Male,Master's,Director,26,116486.75
+24,Male,Master's,Sales Associate,3,76238.44
+27,Male,Master's,Senior Manager,3,69324.57
+26,Female,Bachelor's,Software Engineer,2,60304.93
+26,Female,PhD,Sales Associate,2,89015.17
+44,Female,Master's,Sales Associate,21,107828.04
+30,Male,Bachelor's,Senior Manager,9,80857.52
+56,Male,PhD,Sales Associate,34,181356.71
+41,Female,PhD,Senior Manager,17,125091.96
+56,Female,Bachelor's,Data Analyst,32,119413.42
+39,Female,Bachelor's,Director,18,94437.57
+38,Male,Master's,Data Analyst,14,111486.34
+45,Female,PhD,Senior Manager,22,155949.13
+24,Female,PhD,Senior Manager,1,77885.52
+53,Male,Bachelor's,Data Analyst,29,150391.05
+56,Female,PhD,Software Engineer,35,158146.5
+59,Male,Master's,Software Engineer,38,207146.33
+34,Male,PhD,Software Engineer,13,111208.76
+46,Male,Bachelor's,Senior Manager,26,153230.66
+30,Female,Bachelor's,Sales Associate,6,66167.01
+25,Female,Master's,Senior Manager,4,71624.18
+35,Male,Master's,Sales Associate,12,120992.88
+58,Female,PhD,Data Analyst,36,221673.58
+55,Female,PhD,Director,33,167603.5
+32,Female,Bachelor's,Sales Associate,11,85556.6
+24,Female,Master's,Software Engineer,2,69092.91
+49,Male,Master's,Senior Manager,27,153260.76
+50,Female,Master's,Data Analyst,30,166411.29
+30,Male,PhD,Software Engineer,7,99494.24
+24,Male,Master's,Data Analyst,1,65458.62
+46,Female,Bachelor's,Director,26,120670.17
+55,Male,Bachelor's,Senior Manager,35,190239.79
+33,Female,PhD,Senior Manager,11,101111.14
+30,Female,PhD,Director,6,96750.3
+36,Male,Master's,Senior Manager,14,123824.34
+46,Male,PhD,Sales Associate,26,170556.93
+26,Male,Bachelor's,Data Analyst,3,61636.42
+32,Male,Master's,Software Engineer,10,98120.93
+55,Female,Bachelor's,Director,31,151342.38
+45,Female,Master's,Sales Associate,23,157201.62
+36,Female,PhD,Software Engineer,15,115157.22
+59,Male,Master's,Software Engineer,37,207051.54
+29,Male,Master's,Director,9,79494.94
+26,Male,Bachelor's,Sales Associate,3,65412.81
+47,Female,Bachelor's,Software Engineer,24,95419.72
+39,Male,Master's,Software Engineer,19,138265.59
+27,Female,PhD,Sales Associate,6,98545.6
+58,Male,PhD,Senior Manager,38,233286.94
+34,Female,Bachelor's,Software Engineer,12,79251.3
+49,Female,PhD,Data Analyst,29,134847.68
+26,Male,Bachelor's,Sales Associate,6,69678.97
+34,Male,PhD,Software Engineer,13,112159.67
+38,Female,Master's,Director,16,99803.21
+53,Female,Bachelor's,Data Analyst,29,150186.2
+50,Male,Bachelor's,Software Engineer,26,139174.24
+24,Male,Master's,Data Analyst,1,69036.28
+55,Female,Bachelor's,Data Analyst,35,148509.86
+48,Male,PhD,Senior Manager,25,135642.84
+34,Female,PhD,Data Analyst,13,113165.87
+54,Female,Bachelor's,Senior Manager,30,127059.64
+27,Male,PhD,Sales Associate,7,110308.59
+45,Male,Bachelor's,Senior Manager,24,113648.13
+40,Male,Master's,Director,19,133666.54
+37,Male,Bachelor's,Software Engineer,17,84577.13
+49,Male,Master's,Sales Associate,28,119945.86
+54,Female,PhD,Sales Associate,34,158165.66
+34,Female,Master's,Director,14,101504.22
+46,Male,PhD,Senior Manager,24,154522.08
+57,Male,Bachelor's,Software Engineer,34,170260.45
+48,Male,PhD,Senior Manager,27,153140.25
+59,Female,Bachelor's,Data Analyst,38,183910.7
+28,Male,Bachelor's,Senior Manager,6,64259.37
+26,Male,Master's,Sales Associate,4,77452.64
+52,Female,Master's,Software Engineer,30,155754.79
+44,Female,Master's,Senior Manager,20,117713.2
+31,Male,Master's,Software Engineer,7,79085.82
+53,Male,PhD,Software Engineer,29,193671.71
+51,Male,PhD,Data Analyst,31,206800.07
+52,Female,PhD,Data Analyst,31,196818.22
+39,Male,Bachelor's,Sales Associate,16,92510.62
+57,Male,PhD,Director,37,164464.85
+23,Male,PhD,Software Engineer,2,83493.48
+35,Female,PhD,Director,14,119214.73
+34,Female,Master's,Sales Associate,12,95181.25
+50,Male,PhD,Software Engineer,28,174800.09
+33,Male,Bachelor's,Software Engineer,13,85409.07
+23,Female,Master's,Director,1,72590.98
+53,Female,Bachelor's,Senior Manager,32,170136.55
+34,Female,PhD,Data Analyst,12,103470.29
+48,Female,Master's,Senior Manager,24,133600.68
+38,Female,Bachelor's,Director,16,103009.68
+52,Female,PhD,Data Analyst,31,194680.17
+55,Female,Bachelor's,Senior Manager,35,166776.53
+45,Female,Bachelor's,Data Analyst,22,126362.06
+56,Female,Bachelor's,Software Engineer,34,152540.41
+27,Male,PhD,Senior Manager,6,88046.84
+40,Male,PhD,Data Analyst,17,130524.01
+51,Male,Bachelor's,Data Analyst,28,110523.23
+28,Female,Master's,Data Analyst,4,84270.68
+31,Male,Master's,Senior Manager,8,85172.51
+53,Female,PhD,Sales Associate,32,192627.11
+55,Female,PhD,Senior Manager,34,179304.56
+49,Male,PhD,Director,27,146343.11
+36,Female,PhD,Senior Manager,14,121106.3
+51,Male,PhD,Data Analyst,29,177495.84
+58,Male,Master's,Software Engineer,35,138259.21
+50,Male,PhD,Senior Manager,27,180263.66
+43,Female,Bachelor's,Senior Manager,19,93612.46
+25,Male,Bachelor's,Data Analyst,3,66097.31
+41,Female,Master's,Software Engineer,21,134651.32
+53,Male,Bachelor's,Software Engineer,29,164065.97
+57,Male,Master's,Director,37,191563.4
+25,Male,Master's,Senior Manager,2,64369.79
+48,Female,Bachelor's,Software Engineer,24,114727.1
+38,Female,PhD,Software Engineer,14,125173.37
+33,Female,Bachelor's,Sales Associate,12,83238.06
+43,Male,Bachelor's,Sales Associate,20,121586.65
+38,Male,Master's,Software Engineer,15,114938.79
+31,Female,Bachelor's,Director,7,58517.01
+22,Female,Master's,Software Engineer,0,60953.36
+43,Female,PhD,Data Analyst,19,120597.91
+47,Female,PhD,Senior Manager,26,162299.15
+39,Female,PhD,Director,15,137287.64
+35,Female,Bachelor's,Data Analyst,12,105177.3
+50,Male,Master's,Director,27,142541.2
+33,Female,PhD,Data Analyst,9,111624.73
+57,Male,Master's,Senior Manager,33,197626.19
+56,Male,Master's,Senior Manager,32,191712.49
+33,Female,PhD,Sales Associate,11,127946.78
+28,Female,PhD,Data Analyst,5,101573.85
+50,Male,Master's,Sales Associate,27,172856.53
+32,Female,PhD,Data Analyst,10,113711.98
+54,Female,Master's,Sales Associate,30,173775.71
+27,Male,Master's,Senior Manager,6,78140.11
+36,Male,PhD,Director,12,105482.73
+53,Male,Bachelor's,Sales Associate,29,116512.87
+32,Female,PhD,Data Analyst,10,107701.31
+44,Male,Bachelor's,Data Analyst,21,88521.32
+47,Female,Master's,Senior Manager,23,128524.58
+55,Male,Master's,Data Analyst,32,174533.99
+55,Male,Bachelor's,Software Engineer,35,147233.23
+50,Male,Master's,Director,27,141623.58
+25,Female,Bachelor's,Sales Associate,4,66355.29
+38,Female,Bachelor's,Director,17,85035.74
+56,Male,Master's,Senior Manager,32,149649.61
+34,Male,Bachelor's,Sales Associate,11,90341.19
+36,Male,PhD,Sales Associate,12,113569.51
+50,Female,PhD,Software Engineer,28,168331.75
+50,Male,Master's,Senior Manager,29,175974.16
+32,Female,Master's,Data Analyst,8,82471.78
+53,Male,Bachelor's,Software Engineer,31,139934.66
+23,Male,Bachelor's,Software Engineer,0,46049.7
+35,Male,Bachelor's,Director,12,87312.49
+41,Male,Bachelor's,Director,18,115871.45
+43,Male,PhD,Director,20,143879.8
+32,Male,PhD,Software Engineer,9,105151.1
+48,Female,Master's,Data Analyst,28,157324.9
+24,Male,Bachelor's,Sales Associate,2,46956.38
+38,Female,Bachelor's,Director,16,113205.05
+49,Male,Master's,Data Analyst,26,136516.06
+50,Male,Bachelor's,Senior Manager,30,136564.31
+42,Female,Bachelor's,Director,19,108317.13
+37,Male,Bachelor's,Sales Associate,17,92372.59
+58,Female,Bachelor's,Senior Manager,35,159354.74
+41,Female,Bachelor's,Senior Manager,20,128215.05
+27,Male,Master's,Sales Associate,6,88080.09
+40,Female,Bachelor's,Director,16,94900.72
+26,Female,Master's,Software Engineer,3,75123.49
+24,Male,Bachelor's,Sales Associate,2,59065.86
+22,Female,PhD,Sales Associate,0,83451.33
+59,Male,PhD,Sales Associate,38,209712.13
+36,Male,PhD,Senior Manager,13,101446.11
+55,Male,PhD,Data Analyst,31,153757.89
+56,Male,Master's,Software Engineer,33,134927.86
+46,Female,Master's,Director,25,152924.65
+45,Male,Bachelor's,Director,21,94958.14
+33,Male,PhD,Data Analyst,12,118716.27
+39,Female,Master's,Sales Associate,19,105693.06
+36,Male,Bachelor's,Software Engineer,15,93329.52
+37,Male,Bachelor's,Director,14,95954.8
+48,Female,Master's,Director,26,157693.56
+29,Female,PhD,Sales Associate,8,103835.89
+46,Female,Bachelor's,Data Analyst,24,96129.45
+38,Female,PhD,Software Engineer,18,131534.39
+50,Female,PhD,Data Analyst,26,169657.98
+29,Female,PhD,Data Analyst,5,95696.03
+36,Female,Bachelor's,Software Engineer,14,94264.06
+48,Male,PhD,Software Engineer,24,167728.19
+28,Female,Bachelor's,Director,7,84513.31
+24,Female,PhD,Director,2,87304.69
+50,Female,Bachelor's,Software Engineer,27,112672.36
+45,Male,PhD,Senior Manager,24,149120.71
+24,Male,Master's,Director,3,67458.77
+41,Female,PhD,Senior Manager,20,139980.78
+36,Female,PhD,Software Engineer,13,106354.12
+46,Female,Bachelor's,Director,26,151695.28
+51,Male,Bachelor's,Data Analyst,27,150057.52
+35,Male,PhD,Software Engineer,13,142146.89
+28,Female,Master's,Sales Associate,8,90135.71
+38,Male,Master's,Senior Manager,16,123005.57
+41,Female,Bachelor's,Software Engineer,17,102973.54
+57,Male,Master's,Software Engineer,34,142083.8
+30,Male,PhD,Director,9,115806.6
+59,Female,Bachelor's,Director,38,177731.08
+43,Female,PhD,Director,20,150247.05
+23,Female,Bachelor's,Sales Associate,3,56981.15
+45,Female,Bachelor's,Director,25,121153.66
+29,Male,Bachelor's,Software Engineer,7,68738.96
+32,Male,Bachelor's,Director,9,77000.58
+34,Male,Master's,Data Analyst,14,110147.17
+38,Female,PhD,Director,15,114591.75
+29,Male,PhD,Sales Associate,5,89292.82
+42,Female,PhD,Data Analyst,21,164938.39
+39,Male,Bachelor's,Software Engineer,18,81434.9
+51,Female,Master's,Software Engineer,30,182151.85
+39,Female,PhD,Senior Manager,16,121169.59
+52,Male,Master's,Data Analyst,29,123948.24
+59,Female,Bachelor's,Senior Manager,37,126292.73
+53,Female,PhD,Data Analyst,32,153016.3
+32,Male,Master's,Data Analyst,10,95417.94
+46,Female,Bachelor's,Sales Associate,25,143279.7
+54,Female,Master's,Senior Manager,32,179392.48
+59,Female,PhD,Sales Associate,37,218750.98
+29,Male,PhD,Data Analyst,5,89751.47
+32,Male,Bachelor's,Software Engineer,10,83172.46
+43,Female,Bachelor's,Data Analyst,20,98201.84
+45,Male,Bachelor's,Sales Associate,23,128844.5
+38,Female,Master's,Senior Manager,17,108221.19
+33,Female,Master's,Senior Manager,11,95090.55
+53,Female,Master's,Sales Associate,33,161278.44
+36,Female,Bachelor's,Senior Manager,15,106018.04
+37,Female,PhD,Director,17,135822.52
+43,Male,PhD,Software Engineer,22,141361.07
+49,Female,Master's,Software Engineer,26,157014.06
+41,Male,Master's,Software Engineer,18,120539.57
+54,Male,PhD,Senior Manager,31,182633.16
+31,Female,PhD,Senior Manager,11,96171.74
+53,Female,Master's,Data Analyst,29,144983.16
+54,Male,Master's,Data Analyst,33,187861.63
+23,Male,PhD,Software Engineer,0,85222.81
+54,Male,Bachelor's,Director,33,114711.42
+54,Female,Master's,Data Analyst,34,142966.82
+34,Male,PhD,Data Analyst,10,111232.21
+51,Female,PhD,Senior Manager,31,201661.03
+54,Female,PhD,Director,33,187579.09
+34,Female,PhD,Software Engineer,10,105443.05
+47,Male,Bachelor's,Data Analyst,23,126308.58
+43,Female,PhD,Director,23,126345.12
+23,Female,Master's,Director,0,59440.81
+59,Female,Bachelor's,Software Engineer,38,172908.34
+47,Female,PhD,Director,25,174463.99
+36,Female,Bachelor's,Director,14,101732.58
+55,Male,Master's,Director,35,170334.26
+32,Female,PhD,Data Analyst,11,115949.13
+24,Female,Master's,Software Engineer,3,74513.58
+27,Male,PhD,Director,7,114151.41
+30,Female,PhD,Director,9,118552.68
+27,Male,PhD,Data Analyst,4,87340.45
+30,Female,PhD,Software Engineer,10,98621.18
+52,Male,PhD,Senior Manager,29,169408.59
+53,Male,Bachelor's,Data Analyst,32,155717.4
+33,Female,PhD,Software Engineer,13,111128.74
+29,Female,PhD,Director,8,106838.12
+29,Female,Bachelor's,Software Engineer,9,58184.42
+49,Male,Bachelor's,Software Engineer,28,119483.84
+41,Male,Bachelor's,Software Engineer,18,119434.89
+28,Male,Bachelor's,Senior Manager,5,67493.71
+32,Female,Bachelor's,Software Engineer,11,83148.95
+41,Male,Bachelor's,Senior Manager,21,120963.51
+37,Male,PhD,Director,15,118051.49
+25,Female,PhD,Senior Manager,2,83159.66
+27,Male,Master's,Director,4,70344.47
+43,Male,PhD,Director,21,132517.16
+47,Female,PhD,Senior Manager,26,161456.73
+24,Male,Bachelor's,Data Analyst,4,61865.11
+35,Female,Bachelor's,Sales Associate,14,88651.25
+32,Female,PhD,Software Engineer,8,106003.93
+39,Female,Master's,Sales Associate,16,117129.33
+33,Female,Bachelor's,Software Engineer,9,83136.08
+44,Female,PhD,Software Engineer,21,141494.71
+33,Male,PhD,Director,10,107534.19
+34,Male,Master's,Software Engineer,10,96048.81
+46,Female,Master's,Software Engineer,22,147057.31
+40,Female,Bachelor's,Senior Manager,19,105272.51
+57,Male,Master's,Sales Associate,33,148433.99
+29,Female,PhD,Senior Manager,8,108461.71
+50,Female,PhD,Software Engineer,29,136063.35
+53,Female,Master's,Director,32,188420.09
+39,Male,Master's,Senior Manager,16,93036.08
+27,Male,Master's,Senior Manager,4,70555.11
+39,Female,Master's,Data Analyst,15,123522.32
+40,Female,Bachelor's,Software Engineer,17,103121.84
+43,Male,Master's,Director,19,132898.65
+58,Male,Bachelor's,Senior Manager,35,171059.03
+53,Female,PhD,Senior Manager,33,147228.65
+24,Female,Master's,Director,4,79440.41
+49,Male,Bachelor's,Software Engineer,25,110044.65
+31,Male,Master's,Data Analyst,8,97275.18
+56,Male,PhD,Senior Manager,33,199568.05
+50,Female,PhD,Data Analyst,29,142593.51
+36,Male,PhD,Sales Associate,14,112783.91
+54,Female,Master's,Software Engineer,30,159984.87
+28,Male,Master's,Sales Associate,6,76529.64
+33,Male,Bachelor's,Sales Associate,11,89488.21
+51,Male,PhD,Sales Associate,27,166636.8
+42,Male,Master's,Software Engineer,19,131432.61
+52,Female,PhD,Software Engineer,28,147387.79
+45,Female,PhD,Director,23,152555.05
+41,Male,Bachelor's,Data Analyst,18,116092.89
+58,Female,Bachelor's,Data Analyst,38,154533.33
+25,Male,Bachelor's,Director,1,49345.41
+49,Male,Bachelor's,Director,25,140760.88
+41,Male,PhD,Sales Associate,18,137102.19
+45,Male,Bachelor's,Director,25,154184.53
+53,Female,Bachelor's,Senior Manager,33,148142.52
+57,Male,Bachelor's,Data Analyst,34,170151.29
+55,Male,Bachelor's,Director,34,140939.39
+57,Female,PhD,Senior Manager,33,196844.33
+23,Male,Bachelor's,Senior Manager,0,51294.56
+36,Male,PhD,Senior Manager,14,126065.58
+55,Male,Master's,Senior Manager,32,165854.31
+57,Female,PhD,Sales Associate,35,188582.49
+27,Male,PhD,Senior Manager,5,89355.39
+33,Female,Bachelor's,Sales Associate,13,79768.31
+24,Male,Master's,Sales Associate,0,68971.28
+39,Male,Master's,Senior Manager,17,110516.12
+42,Female,Master's,Data Analyst,22,152023.02
+36,Male,Master's,Senior Manager,13,109389.24
+54,Male,PhD,Senior Manager,32,150971.97
+56,Female,Master's,Senior Manager,32,136400.78
+47,Female,PhD,Data Analyst,25,144862.58
+29,Female,PhD,Software Engineer,6,100727.08
+57,Female,PhD,Software Engineer,35,197930.68
+51,Female,Master's,Sales Associate,27,174671.73
+44,Male,Bachelor's,Sales Associate,24,114991.05
+35,Female,Bachelor's,Data Analyst,11,87764.81
+35,Male,Master's,Director,15,99013.5
+23,Male,Bachelor's,Software Engineer,2,56897.46
+58,Male,Bachelor's,Sales Associate,34,190173.66
+26,Female,PhD,Software Engineer,2,86033.79
+59,Female,PhD,Data Analyst,36,195346.04
+35,Male,Master's,Data Analyst,13,111107.53
+46,Female,Master's,Director,26,143194.9
+41,Female,Bachelor's,Director,21,101224.02
+23,Female,PhD,Data Analyst,0,77235.0
+27,Female,Master's,Sales Associate,4,83649.69
+38,Male,Master's,Software Engineer,16,122845.22
+46,Male,Master's,Senior Manager,24,114771.12
+49,Female,Master's,Director,25,146583.46
+23,Male,Master's,Senior Manager,2,64934.11
+56,Female,Master's,Sales Associate,34,162849.36
+58,Female,Bachelor's,Director,35,166270.67
+26,Male,PhD,Senior Manager,4,93382.14
+22,Male,PhD,Sales Associate,2,78678.79
+33,Male,Master's,Software Engineer,12,97001.26
+57,Female,PhD,Sales Associate,33,216753.15
+44,Male,PhD,Director,24,162980.88
+52,Female,PhD,Data Analyst,32,209635.49
+32,Male,Master's,Software Engineer,11,107548.73
+31,Male,Master's,Senior Manager,7,81309.3
+24,Female,PhD,Director,1,77627.37
+35,Female,PhD,Data Analyst,11,103447.06
+37,Female,Master's,Sales Associate,15,96659.46
+31,Female,Bachelor's,Data Analyst,11,76020.27
+50,Female,PhD,Director,28,180735.47
+31,Female,Bachelor's,Director,8,72426.35
+33,Female,PhD,Data Analyst,11,110178.92
+51,Female,Bachelor's,Sales Associate,27,138579.4
+22,Male,Bachelor's,Data Analyst,0,45189.01
+26,Female,Bachelor's,Director,3,60545.7
+41,Female,Master's,Director,18,130551.27
+29,Male,Bachelor's,Senior Manager,6,65854.09
+33,Female,Bachelor's,Senior Manager,9,84102.75
+22,Male,Bachelor's,Software Engineer,0,55511.45
+41,Male,PhD,Director,21,123398.25
+49,Female,Bachelor's,Senior Manager,26,114307.03
+58,Male,PhD,Data Analyst,36,202098.25
+58,Female,Bachelor's,Sales Associate,36,152265.26
+33,Male,Bachelor's,Data Analyst,11,85968.63
+58,Male,Master's,Sales Associate,34,143082.04
+49,Male,PhD,Senior Manager,27,176085.29
+36,Female,Bachelor's,Software Engineer,12,89245.84
+27,Female,PhD,Data Analyst,3,88821.81
+41,Male,PhD,Data Analyst,18,126889.57
