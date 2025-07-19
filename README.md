@@ -9,17 +9,17 @@ Project Title: Employee Salary Prediction
    The notebook walks through all essential stages of a data science project:
 
 
-   Data Loading
+   1.Data Loading
 
-   Exploratory Data Analysis (EDA)
+   2.Exploratory Data Analysis (EDA)
 
-   Data Preprocessing
+   3.Data Preprocessing
 
-   Model Training
+   4.Model Training
 
-   Model Evaluation
+   5.Model Evaluation
 
-   Prediction
+   6.Prediction
 
 
 📂 Notebook Breakdown and Explanation
@@ -43,13 +43,13 @@ Project Title: Employee Salary Prediction
     from sklearn.metrics import r2_score, mean_squared_error
 
 
-    These libraries are used for:
+   These libraries are used for:
 
-    1.Data handling (pandas, numpy)
+   1.Data handling (pandas, numpy)
 
-    2.Data visualization (matplotlib, seaborn)
+   2.Data visualization (matplotlib, seaborn)
 
-    3.Machine Learning modeling and evaluation (scikit-learn)
+   3.Machine Learning modeling and evaluation (scikit-learn)
 
 
 
@@ -57,7 +57,7 @@ Project Title: Employee Salary Prediction
 
     data = pd.read_csv("Employee.csv")
  
-    Load the dataset into a DataFrame
+   Load the dataset into a DataFrame
 
  🔍 Exploratory Data Analysis (EDA)
 
@@ -68,18 +68,18 @@ Project Title: Employee Salary Prediction
     data.isnull().sum()
 
 
-    To understand the structure of the dataset:
+   To understand the structure of the dataset:
 
-    Check for missing value
+   Check for missing value
 
-    data types
+   data types
   
-    View basic statistics
+   View basic statistics
 
 
  🔧 Data Preprocessing
 
-    Before training, we split the dataset:
+   Before training, we split the dataset:
    
     X = data[['YearsExperience']]
    
@@ -87,7 +87,7 @@ Project Title: Employee Salary Prediction
    
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    This splits the data into training (80%) and testing (20%) sets.
+   This splits the data into training (80%) and testing (20%) sets.
 
 
    🤖 Model Training
@@ -96,7 +96,7 @@ Project Title: Employee Salary Prediction
    
     model.fit(X_train, y_train)
 
-    We fit a Linear Regression model using training data. It tries to find the best-fitting straight line between experience and salary.
+   We fit a Linear Regression model using training data. It tries to find the best-fitting straight line between experience and salary.
 
 
  📈 Prediction and Evaluation
@@ -109,11 +109,11 @@ Project Title: Employee Salary Prediction
    
     mean_squared_error(y_test, y_pred)
 
-    These evaluate how well the model is performing:
+   These evaluate how well the model is performing:
 
-    R² score shows how much of the variation in salary is explained by experience.
+   R² score shows how much of the variation in salary is explained by experience.
 
-    MSE gives the average squared difference between predicted and actual salaries.
+   MSE gives the average squared difference between predicted and actual salaries.
 
 
    🖼️ Results Visualization
@@ -130,6 +130,6 @@ Project Title: Employee Salary Prediction
    
     plt.show()
 
-    This shows a visual comparison between predicted and actual salaries on the test set.
+   This shows a visual comparison between predicted and actual salaries on the test set.
 
 
