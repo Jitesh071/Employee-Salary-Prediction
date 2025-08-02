@@ -1,7 +1,7 @@
 Project Title: Employee Salary Prediction
 
 
- 📝Overview
+ Overview
  This project focuses on building a machine learning model that can predict the salary of
  employees based on various input features. It uses regression algorithms—primarily Linear Regression—to estimate the salary,
  using a dataset that includes employee details like years of experience.
@@ -22,7 +22,7 @@ Project Title: Employee Salary Prediction
    6.Prediction
 
 
-📂 Notebook Breakdown and Explanation
+ Notebook Breakdown and Explanation
 
    Importing Libraries
  
@@ -59,7 +59,7 @@ Project Title: Employee Salary Prediction
  
    Load the dataset into a DataFrame
 
- 🔍 Exploratory Data Analysis (EDA)
+  Exploratory Data Analysis (EDA)
 
     data.info()
   
@@ -77,7 +77,7 @@ Project Title: Employee Salary Prediction
    View basic statistics
 
 
- 🔧 Data Preprocessing
+   Data Preprocessing
 
    Before training, we split the dataset:
    
@@ -90,7 +90,7 @@ Project Title: Employee Salary Prediction
    This splits the data into training (80%) and testing (20%) sets.
 
 
-   🤖 Model Training
+     Model Training
 
     model = LinearRegression()
    
@@ -99,7 +99,7 @@ Project Title: Employee Salary Prediction
    We fit a Linear Regression model using training data. It tries to find the best-fitting straight line between experience and salary.
 
 
- 📈 Prediction and Evaluation
+  Prediction and Evaluation
 
     y_pred = model.predict(X_test)
  
@@ -116,7 +116,7 @@ Project Title: Employee Salary Prediction
    MSE gives the average squared difference between predicted and actual salaries.
 
 
-   🖼️ Results Visualization
+     Results Visualization
 
     plt.scatter(X_test, y_test, color='red')
    
